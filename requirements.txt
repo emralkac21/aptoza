@@ -1,0 +1,11 @@
+customtkinter>=5.2.1
+opencv-python>=4.8.0
+numpy>=1.24.3
+mss>=7.0.1
+Pillow>=10.0.0
+pynput>=1.7.6
+PyAutoGUI>=0.9.54
+sounddevice>=0.4.6
+soundfile>=0.12.1
+scipy>=1.11.1
+schedule>=1.2.0
