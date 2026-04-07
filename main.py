@@ -1,7 +1,4 @@
-"""
-Modern Ekran Kaydedici Pro v3.1 (Uzun Kayıt Optimizasyonlu)
-Ekran görüntüsü ve video kaydı + Webcam + Fare vurgulama + Tuş gösterimi + Video düzenleme
-"""
+
 import customtkinter as ctk
 from tkinter import filedialog, messagebox, colorchooser
 import tkinter as tk
